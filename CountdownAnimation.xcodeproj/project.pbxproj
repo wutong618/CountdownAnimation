@@ -13,6 +13,7 @@
 		03D401F72099BBA90057F3A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03D401F62099BBA90057F3A4 /* Assets.xcassets */; };
 		03D401FA2099BBA90057F3A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03D401F82099BBA90057F3A4 /* LaunchScreen.storyboard */; };
 		03D401FD2099BBA90057F3A4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D401FC2099BBA90057F3A4 /* main.m */; };
+		03D4020A2099BD390057F3A4 /* ZPCircleProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D402092099BD390057F3A4 /* ZPCircleProgressView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		03D401F92099BBA90057F3A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03D401FB2099BBA90057F3A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03D401FC2099BBA90057F3A4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		03D402082099BD390057F3A4 /* ZPCircleProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZPCircleProgressView.h; sourceTree = "<group>"; };
+		03D402092099BD390057F3A4 /* ZPCircleProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZPCircleProgressView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				03D401EE2099BBA80057F3A4 /* AppDelegate.m */,
 				03D401F02099BBA80057F3A4 /* ViewController.h */,
 				03D401F12099BBA80057F3A4 /* ViewController.m */,
+				03D402082099BD390057F3A4 /* ZPCircleProgressView.h */,
+				03D402092099BD390057F3A4 /* ZPCircleProgressView.m */,
 				03D401F32099BBA80057F3A4 /* Main.storyboard */,
 				03D401F62099BBA90057F3A4 /* Assets.xcassets */,
 				03D401F82099BBA90057F3A4 /* LaunchScreen.storyboard */,
@@ -142,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03D401F22099BBA80057F3A4 /* ViewController.m in Sources */,
+				03D4020A2099BD390057F3A4 /* ZPCircleProgressView.m in Sources */,
 				03D401FD2099BBA90057F3A4 /* main.m in Sources */,
 				03D401EF2099BBA80057F3A4 /* AppDelegate.m in Sources */,
 			);
