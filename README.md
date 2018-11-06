@@ -1,4 +1,4 @@
-# CountdownAnimation
+# 倒计时跳过CountdownAnimation
 说明如下，请知晓：
 
 1.基于ShapeLayer + BezierPath + CAAnimation的动画倒计时
